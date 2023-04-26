@@ -1,2 +1,1 @@
-# DataScienceEcosystem
 DataScienceEcosystem - Coursera
